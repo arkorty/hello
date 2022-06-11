@@ -5,5 +5,6 @@ This repository contains "Hello, world!" programs in various languages.
 * [C](./C/hello_world.c)
 * [C++](./C++/hello_world.cpp)
 * [Java](./Java/HelloWorld.java)
+* [Python](./Python/hello_world.py)
 * [Rust](./Rust/hello_world.rs)
 * [x86 Assembly](./x86-Assembly/hello_world.asm)
