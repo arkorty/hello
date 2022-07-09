@@ -1,7 +1,3 @@
-; Name:   hello_world.asm
-; Author: Arkaprabha Chakraborty
-; Date:   11-06-2022
-
 section .text
     global _start
 
